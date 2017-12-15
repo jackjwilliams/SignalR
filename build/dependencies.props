@@ -31,7 +31,7 @@
     <MicrosoftAspNetCoreTestHostPackageVersion>2.1.0-preview1-27776</MicrosoftAspNetCoreTestHostPackageVersion>
     <MicrosoftAspNetCoreTestingPackageVersion>2.1.0-preview1-27776</MicrosoftAspNetCoreTestingPackageVersion>
     <MicrosoftAspNetCoreWebSocketsPackageVersion>2.1.0-preview1-27776</MicrosoftAspNetCoreWebSocketsPackageVersion>
-    <MicrosoftCSharpPackageVersion>4.5.0-preview1-26006-06</MicrosoftCSharpPackageVersion>
+    <MicrosoftCSharpPackageVersion>4.5.0-preview1-26014-03</MicrosoftCSharpPackageVersion>
     <MicrosoftEntityFrameworkCoreDesignPackageVersion>2.1.0-preview1-27776</MicrosoftEntityFrameworkCoreDesignPackageVersion>
     <MicrosoftEntityFrameworkCoreSqlServerPackageVersion>2.1.0-preview1-27776</MicrosoftEntityFrameworkCoreSqlServerPackageVersion>
     <MicrosoftEntityFrameworkCoreToolsPackageVersion>2.1.0-preview1-27776</MicrosoftEntityFrameworkCoreToolsPackageVersion>
@@ -53,21 +53,21 @@
     <MicrosoftExtensionsSecurityHelperSourcesPackageVersion>2.1.0-preview1-27776</MicrosoftExtensionsSecurityHelperSourcesPackageVersion>
     <MicrosoftExtensionsValueStopwatchSourcesPackageVersion>2.1.0-preview1-27776</MicrosoftExtensionsValueStopwatchSourcesPackageVersion>
     <MicrosoftNETCoreApp20PackageVersion>2.0.0</MicrosoftNETCoreApp20PackageVersion>
-    <MicrosoftNETCoreApp21PackageVersion>2.1.0-preview1-26008-01</MicrosoftNETCoreApp21PackageVersion>
+    <MicrosoftNETCoreApp21PackageVersion>2.1.0-preview1-26015-01</MicrosoftNETCoreApp21PackageVersion>
     <MicrosoftNETTestSdkPackageVersion>15.3.0</MicrosoftNETTestSdkPackageVersion>
     <MoqPackageVersion>4.7.49</MoqPackageVersion>
     <MsgPackCliPackageVersion>0.9.0-beta2</MsgPackCliPackageVersion>
     <NewtonsoftJsonPackageVersion>10.0.1</NewtonsoftJsonPackageVersion>
     <StackExchangeRedisStrongNamePackageVersion>1.2.4</StackExchangeRedisStrongNamePackageVersion>
-    <SystemBuffersPrimitivesPackageVersion>0.1.0-e171206-2</SystemBuffersPrimitivesPackageVersion>
-    <SystemIOPipelinesExtensionsPackageVersion>0.1.0-e171206-2</SystemIOPipelinesExtensionsPackageVersion>
-    <SystemIOPipelinesPackageVersion>0.1.0-e171206-2</SystemIOPipelinesPackageVersion>
-    <SystemMemoryPackageVersion>4.5.0-preview1-26006-06</SystemMemoryPackageVersion>
-    <SystemNumericsVectorsPackageVersion>4.5.0-preview1-26006-06</SystemNumericsVectorsPackageVersion>
+    <SystemBuffersPrimitivesPackageVersion>0.1.0-e171215-1</SystemBuffersPrimitivesPackageVersion>
+    <SystemIOPipelinesExtensionsPackageVersion>0.1.0-e171215-1</SystemIOPipelinesExtensionsPackageVersion>
+    <SystemIOPipelinesPackageVersion>0.1.0-e171215-1</SystemIOPipelinesPackageVersion>
+    <SystemMemoryPackageVersion>4.5.0-preview1-26014-03</SystemMemoryPackageVersion>
+    <SystemNumericsVectorsPackageVersion>4.5.0-preview1-26014-03</SystemNumericsVectorsPackageVersion>
     <SystemReactiveLinqPackageVersion>3.1.1</SystemReactiveLinqPackageVersion>
     <SystemReflectionEmitPackageVersion>4.3.0</SystemReflectionEmitPackageVersion>
-    <SystemRuntimeCompilerServicesUnsafePackageVersion>4.5.0-preview1-26006-06</SystemRuntimeCompilerServicesUnsafePackageVersion>
-    <SystemThreadingChannelsPackageVersion>4.5.0-preview1-26006-06</SystemThreadingChannelsPackageVersion>
+    <SystemRuntimeCompilerServicesUnsafePackageVersion>4.5.0-preview1-26014-03</SystemRuntimeCompilerServicesUnsafePackageVersion>
+    <SystemThreadingChannelsPackageVersion>4.5.0-preview1-26014-03</SystemThreadingChannelsPackageVersion>
     <SystemThreadingTasksExtensionsPackageVersion>4.5.0-preview2-25707-02</SystemThreadingTasksExtensionsPackageVersion>
     <XunitPackageVersion>2.3.1</XunitPackageVersion>
     <XunitRunnerVisualStudioPackageVersion>2.3.1</XunitRunnerVisualStudioPackageVersion>
